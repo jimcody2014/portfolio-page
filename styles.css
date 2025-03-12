@@ -134,7 +134,8 @@ section p {
 .project-card p {
     padding: 0 15px 20px;
     font-size: 0.95em;
-    color: #555;
+    /*color: #555;*/
+    color: green;
 }
 
 /* Hover effect for cards */
